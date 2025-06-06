@@ -33,3 +33,6 @@ go.work.sum
 
 # idea
 .idea
+
+# binary
+bin
